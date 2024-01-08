@@ -181,7 +181,7 @@ messages to be translated::
 
     $translator->trans('Symfony is great');
 
-    $translator->trans('symfony.great');
+    $translator->trans('symfony.is.great');
 
 In the first method, messages are written in the language of the default
 locale (English in this case). That message is then used as the "id"
